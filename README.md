@@ -1,16 +1,24 @@
-## Hi there 👋
+# Bem-vindo(a) ao meu GitHub! 🚀
 
-<!--
-**ArielAraujo18/ArielAraujo18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+def bem_vindo(ariel: str) -> str:
+    stack = ["Python", "Java", "SQL", "JavaScript"]  # Minhas linguagens favoritas!
+    projetos = [
+        "🎵 App de Música", 
+        "🛒 Sistema de Vendas", 
+        "📊 Análise de Dados"
+    ]
+    
+    print(f"Olá, {ariel}! 👋")
+    print("Aqui você encontrará alguns dos meus projetos em:")
+    
+    for linguagem in stack:
+        print(f" - {linguagem}")
 
-Here are some ideas to get you started:
+    print("\nSinta-se à vontade para explorar os seguintes projetos:")
+    for projeto in projetos:
+        print(f" - {projeto}")
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    return "Espero que goste e contribua se puder! 😄"
+
+if __name__ == "__main__":
+    bem_vindo("visitante")
