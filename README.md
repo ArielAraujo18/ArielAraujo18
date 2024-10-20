@@ -1,49 +1,23 @@
-# Bem-vindo(a) ao meu GitHub! 🚀
+## Olá! Eu me chamo Ariel Aráujo🖐️
 
-🌟 Nome do Projeto
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ArielSantos-dev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arielsantos074/)
 
+## Tecnologias que eu uso no meu dia
 
+<div style="display: inline_block">
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+</div><br/>
 
+💻 Desenvolvedor com mais de 10 anos de experiência, apaixonado por compartilhar conhecimento e ajudar pessoas a entrarem no mundo da programação.
 
-
-📝 Descrição do Projeto
-Uma breve descrição do que este projeto faz e por que ele é útil ou interessante para outros desenvolvedores.
-
-🚀 Recursos
-Modular: Fácil de manter e expandir.
-Open Source: Contribuições são bem-vindas!
-Compatível com múltiplas plataformas.
-🛠 Tecnologias Utilizadas
-
-
-
-
-📦 Como Usar
-Clone o repositório:
-bash
-Copiar código
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-Acesse o diretório:
-bash
-Copiar código
-cd SEU_REPOSITORIO
-Instale as dependências:
-bash
-Copiar código
-pip install -r requirements.txt  # ou npm install para projetos JS
-👥 Contribuindo
-Contribuições são super bem-vindas! Para começar:
-
-Faça um fork do projeto
-Crie sua feature branch: git checkout -b feature/sua-feature
-Faça commit das suas alterações: git commit -m 'feat: Sua nova feature'
-Envie um push para a branch: git push origin feature/sua-feature
-Abra um Pull Request
-📄 Licença
-Este projeto está licenciado sob a MIT License.
-
-📢 Agradecimentos
-Quer adicionar badges legais no seu repositório? Confira este artigo:
-150+ Badges for GitHub
-
-Sinta-se à vontade para copiar e alterar o que precisar! Se quiser algo mais específico ou outro tipo de badge, é só avisar.
+### Últimos videos:
+- [Como ZUSTAND deixa seu projeto profissional](https://youtu.be/nutJS8u4RtQ)<br/>
+- [Criando Aplicativo + IA profissional do zero](https://youtu.be/A2yPW3ZSv_A)<br/>
+- [Nunca foi tão fácil criar Dashboard com Next JS e Shadcn ui 🔥](https://youtu.be/PqRe0Q9b5QI)<br/>
+- [Aprendendo e conhecendo FIGMA - UI Design](https://youtu.be/KRCfX25yFf4)<br/>
