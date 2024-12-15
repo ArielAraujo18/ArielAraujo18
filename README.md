@@ -13,12 +13,7 @@
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <br>
-  <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielAraujo18&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  
 </div><br/>
 
 💻 💻 Desenvolvo programas e projetos em Arduino há pouco mais de um ano. Sou apaixonado por códigos e gostaria de compartilhar alguns projetos pessoais no meu GitHub.
