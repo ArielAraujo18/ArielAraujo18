@@ -1,4 +1,4 @@
-## Olá! Eu me chamo Ariel Aráujo🖐️
+## Olá! Eu me chamo Ariel Aráujo
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ArielSantos-dev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arielsantos074/)
