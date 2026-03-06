@@ -16,7 +16,7 @@
   
 </div><br/>
 
-💻 💻 Desenvolvo programas e projetos em Arduino há pouco mais de um ano. Sou apaixonado por códigos e gostaria de compartilhar alguns projetos pessoais no meu GitHub.
+Desenvolvo programas e projetos em Arduino há pouco mais de um ano. Sou apaixonado por códigos e gostaria de compartilhar alguns projetos pessoais no meu GitHub.
 
 
 
