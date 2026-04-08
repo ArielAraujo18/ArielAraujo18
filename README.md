@@ -18,6 +18,16 @@
   
 </div><br/>
 
-Desenvolvo programas e projetos em Arduino há pouco mais de um ano. Sou apaixonado por códigos e gostaria de compartilhar alguns projetos pessoais no meu GitHub.
+Estudante de Bacharelado em Sistemas de Informação pela UFERSA, 19 anos. Focado em desenvolvimento de software e aprendizado contínuo.
+
+Tenho experiência prática com Python em projetos acadêmicos e pessoais, além de desenvolvimento full stack atuando em back-end, front-end e banco de dados.
+
+Desenvolvi um sistema de contabilidade para pequenas e médias empresas (já comercializado, atualmente em atualização). Também participo de um projeto de bolsa acadêmica na UFERSA, criando um sistema de gestão para o Plano de Segurança de Barragem, com cadastro de moradores em áreas vulneráveis.
+
+Criei meu portfólio com React e desenvolvi um projeto de monitoramento de açude utilizando JavaScript e Python, integrando APIs próprias e APIs do Google.
+
+Atualmente estudo Node.js, desenvolvendo APIs REST com CRUD, e possuo conhecimento básico em MongoDB.
+
+Busco evoluir como desenvolvedor e contribuir com soluções práticas e eficientes.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArielAraujo18&theme=github_dark)
