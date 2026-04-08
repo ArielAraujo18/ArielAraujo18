@@ -24,7 +24,3 @@ Atualmente estudo Node.js, desenvolvendo APIs REST com CRUD, e possuo conhecimen
 Busco evoluir como desenvolvedor e contribuir com soluções práticas e eficientes.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArielAraujo18&theme=github_dark)
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArielAraujo18&theme=github_dark" />
-</p>
