@@ -23,4 +23,5 @@ Criei meu portfólio com React e desenvolvi um projeto de monitoramento de açud
 Atualmente estudo Node.js, desenvolvendo APIs REST com CRUD, e possuo conhecimento básico em MongoDB.
 Busco evoluir como desenvolvedor e contribuir com soluções práticas e eficientes.
 
+##
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArielAraujo18&theme=github_dark)
