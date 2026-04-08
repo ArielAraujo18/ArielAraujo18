@@ -20,4 +20,4 @@
 
 Desenvolvo programas e projetos em Arduino há pouco mais de um ano. Sou apaixonado por códigos e gostaria de compartilhar alguns projetos pessoais no meu GitHub.
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ArielAraujo18&show_icons=true&theme=transparent)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArielAraujo18&theme=github_dark)
