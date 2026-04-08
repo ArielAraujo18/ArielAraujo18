@@ -15,6 +15,8 @@
   <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
+## Sobre mim
+
 Estudante de Bacharelado em Sistemas de Informação pela UFERSA, 19 anos. Focado em desenvolvimento de software e aprendizado contínuo.
 
 Tenho experiência prática com Python em projetos acadêmicos e pessoais, além de desenvolvimento full stack atuando em back-end, front-end e banco de dados.
