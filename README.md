@@ -26,5 +26,5 @@ Busco evoluir como desenvolvedor e contribuir com soluções práticas e eficien
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArielAraujo18&theme=github_dark)
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ArielAraujo18&langs_count=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArielAraujo18&theme=github_dark" />
 </p>
