@@ -25,4 +25,4 @@ Busco evoluir como desenvolvedor e contribuir com soluções práticas e eficien
 
 <br> <br />
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArielAraujo18&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArielAraujo18&theme=github_dark)
