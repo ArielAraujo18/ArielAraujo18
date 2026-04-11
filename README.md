@@ -1,4 +1,8 @@
-## Olá! Eu me chamo Ariel Aráujo
+Welcome to my repository
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=😎Olá,+Seja+bem-vindo!;😎Meu+nome+é+Ariel+Araujo!;🧑‍💻Desenvolvedor+de+Software🚀)](https://git.io/typing-svg)
+
+<p align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://arielaraujo.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariel-ara%C3%BAjo-935217228/)
