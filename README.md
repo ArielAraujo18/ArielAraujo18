@@ -4,9 +4,7 @@
   </a>
 </p>
 
-<p align="center">
-  ### 😎 **Sobre mim**
-</p>
+##Sobre mim
 
 Olá, me chamo **Ariel Araújo**, tenho 19 anos. Sou um desenvolvedor focado em desenvolvimento de software e no aprendizado contínuo. Tenho experiência prática com **Python** em projetos acadêmicos e pessoais, além de desenvolvimento **full stack** atuando em back-end, front-end e banco de dados.
 
