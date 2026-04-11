@@ -24,7 +24,7 @@ Busco evoluir como desenvolvedor e contribuir com soluções práticas e eficien
 </div>
 
 <br> <br />
-<div style="display: inline_block margin: 0 padding: 2rem">
+<div style="display: inline_block; margin: 0; padding: 2rem;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArielAraujo18&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArielAraujo18&theme=github_dark" />
 </div>
