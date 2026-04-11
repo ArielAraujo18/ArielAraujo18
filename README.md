@@ -1,6 +1,4 @@
-Welcome to my repository
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=😎Olá,+Seja+bem-vindo!;😎Meu+nome+é+Ariel+Araujo!;🧑‍💻Desenvolvedor+de+Software🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+repository;Ola,+Seja+bem-vindo!;Meu+nome+e+Ariel+Araujo;Desenvolvedor+de+Software)](https://git.io/typing-svg)
 
 <p align="center">
 
