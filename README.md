@@ -27,5 +27,5 @@ Busco evoluir como desenvolvedor e contribuir com soluções práticas e eficien
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArielAraujo18&theme=tokyonight" />
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArielAraujo18&theme=dracula" />
-  <img src="https://stats.vercel.app/api?username=ArielAraujo18&show_icons=true&theme=dracula" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ArielAraujo18&theme=dracula&no-frame=true&row=1&column=6" />
 </div>
