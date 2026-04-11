@@ -2,6 +2,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://arielaraujo.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariel-ara%C3%BAjo-935217228/)
+<img src="https://komarev.com/ghpvc/?username=ArielAraujo18&color=blue" />
 
 ## Sobre mim
 Estudante de Bacharelado em Sistemas de Informação pela UFERSA, 19 anos. Focado em desenvolvimento de software e aprendizado contínuo.
@@ -27,5 +28,5 @@ Busco evoluir como desenvolvedor e contribuir com soluções práticas e eficien
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArielAraujo18&theme=tokyonight" />
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArielAraujo18&theme=dracula" />
-  <img src="https://komarev.com/ghpvc/?username=ArielAraujo18&color=blue" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArielAraujo18&theme=dracula" />
 </div>
