@@ -8,7 +8,7 @@ Estudante de Sistemas de Informação pela Universidade Federal Rural do Semi-Á
 Experiência com Python, JavaScript, React, MySQL e desenvolvimento full stack (back-end, front-end e banco de dados). Atualmente estudando Node.js e APIs REST, com conhecimento básico em MongoDB.
 
 ## Experiência
-- **Projeto Açude**
+- **Projeto Açude:**
   Desenvolvimento individual de um sistema de monitoramento de açude utilizando Python, JavaScript e MySQL.
   O sistema permite ao operador selecionar coordenadas diretamente no mapa (via API), cadastrar moradores vinculados à localização e posteriormente consultar os dados com base nas coordenadas registradas.
   A aplicação integra back-end, front-end e banco de dados para gerenciamento e visualização das informações geográficas.
