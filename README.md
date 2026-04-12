@@ -17,6 +17,15 @@ Experiência com Python, JavaScript, React, MySQL e desenvolvimento full stack (
   Desenvolvimento individual de sistema ERP utilizando Python e MySQL, com módulos de PDV e gestão de estoque.  
   Integra processos como vendas, finanças e controle de produtos em uma única aplicação.  
   O sistema foi comercializado e atualmente está pausado para atualizações.
+
+- **Portfólio Web**  
+  Desenvolvimento de portfólio utilizando React para apresentação de projetos e disponibilização de canal de contato.
+  
+- **Sistema de Gerenciamento de Tarefas**  
+  Aplicação desenvolvida com React para gerenciamento de tarefas, utilizando hooks como useState e navegação entre páginas. Implementa criação, listagem e controle de tarefas.
+
+- **API REST (CRUD)**  
+  Desenvolvimento de API com Node.js implementando operações CRUD. Testes realizados com Postman.
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
