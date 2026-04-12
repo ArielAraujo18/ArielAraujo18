@@ -46,9 +46,9 @@ Experiência com Python, JavaScript, React, MySQL e desenvolvimento full stack (
 
 <br> <br />
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArielAraujo18&theme=tokyonight" />
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArielAraujo18&theme=dracula" />
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArielAraujo18&theme=dracula&utcOffset=-3" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArielAraujo18&theme=dark" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArielAraujo18&theme=dark" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArielAraujo18&theme=dark&utcOffset=-3" />
 </div>
 <p align="center">
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ArielAraujo18&theme=dark&hide_border=true" />
