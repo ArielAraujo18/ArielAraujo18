@@ -50,4 +50,4 @@ Experiência com Python, JavaScript, React, MySQL e desenvolvimento full stack (
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArielAraujo18&theme=dracula" />
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArielAraujo18&theme=dracula&utcOffset=-3" />
 </div>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelo31vasco&theme=dracula&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArielAraujo18&theme=dark&hide_border=true" alt="GitHub Streak" />
