@@ -27,11 +27,10 @@ Experiência com Python, JavaScript, React, MySQL e desenvolvimento full stack (
 
 - **API REST (CRUD)**  
   Desenvolvimento de API com Node.js implementando operações CRUD. Testes realizados com Postman.
-<br> <br />
+
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 </p>
-
   
 ## Tecnologias que eu uso no meu dia
 
@@ -51,3 +50,4 @@ Experiência com Python, JavaScript, React, MySQL e desenvolvimento full stack (
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArielAraujo18&theme=dracula" />
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArielAraujo18&theme=dracula&utcOffset=-3" />
 </div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelo31vasco&theme=dracula&hide_border=true" alt="GitHub Streak" />
