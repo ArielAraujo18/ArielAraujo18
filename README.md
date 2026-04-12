@@ -29,7 +29,7 @@ Experiência com Python, JavaScript, React, MySQL e desenvolvimento full stack (
   Desenvolvimento de API com Node.js implementando operações CRUD. Testes realizados com Postman.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxma3Yyc2xvM2VvdDk2N3o5cW5rbTFqb2kzbGtxZngwMTlxNHdvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="100">
 </p>
   
 ## Tecnologias que eu uso no meu dia
