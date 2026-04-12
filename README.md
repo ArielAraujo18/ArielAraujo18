@@ -13,6 +13,10 @@ Experiência com Python, JavaScript, React, MySQL e desenvolvimento full stack (
   O sistema permite ao operador selecionar coordenadas diretamente no mapa (via API), cadastrar moradores vinculados à localização e posteriormente consultar os dados com base nas coordenadas registradas.
   A aplicação integra back-end, front-end e banco de dados para gerenciamento e visualização das informações geográficas.
 
+- **Sistema ERP com PDV e Controle de Estoque**  
+  Desenvolvimento individual de sistema ERP utilizando Python e MySQL, com módulos de PDV e gestão de estoque.  
+  Integra processos como vendas, finanças e controle de produtos em uma única aplicação.  
+  O sistema foi comercializado e atualmente está pausado para atualizações.
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
