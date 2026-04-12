@@ -4,12 +4,14 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariel-ara%C3%BAjo-935217228/)
 
 ## Sobre mim
-Estudante de Bacharelado em Sistemas de Informação pela UFERSA, 19 anos. Focado em desenvolvimento de software e aprendizado contínuo.
-Tenho experiência prática com Python em projetos acadêmicos e pessoais, além de desenvolvimento full stack atuando em back-end, front-end e banco de dados.
-Desenvolvi um sistema de contabilidade para pequenas e médias empresas (já comercializado, atualmente em atualização). Também participo de um projeto de bolsa acadêmica na UFERSA, criando um sistema de gestão para o Plano de Segurança de Barragem, com cadastro de moradores em áreas vulneráveis.
-Criei meu portfólio com React e desenvolvi um projeto de monitoramento de açude utilizando JavaScript e Python, integrando APIs próprias e APIs do Google.
-Atualmente estudo Node.js, desenvolvendo APIs REST com CRUD, e possuo conhecimento básico em MongoDB.
-Busco evoluir como desenvolvedor e contribuir com soluções práticas e eficientes.
+Estudante de Sistemas de Informação pela Universidade Federal Rural do Semi-Árido (UFERSA), 20 anos. Focado em desenvolvimento de software.
+Experiência com Python, JavaScript, React, MySQL e desenvolvimento full stack (back-end, front-end e banco de dados). Atualmente estudando Node.js e APIs REST, com conhecimento básico em MongoDB.
+
+## Experiência
+### Projeto Açude
+Desenvolvimento individual de um sistema de monitoramento de açude utilizando Python, JavaScript e MySQL.
+O sistema permite ao operador selecionar coordenadas diretamente no mapa (via API), cadastrar moradores vinculados à localização e posteriormente consultar os dados com base nas coordenadas registradas.
+A aplicação integra back-end, front-end e banco de dados para gerenciamento e visualização das informações geográficas.
 
 ## Tecnologias que eu uso no meu dia
 
