@@ -27,6 +27,17 @@ Experiência com Python, JavaScript, React, MySQL e desenvolvimento full stack (
 
 - **API REST (CRUD)**  
   Desenvolvimento de API com Node.js implementando operações CRUD. Testes realizados com Postman.
+  
+- **Bot Telegram**  
+  Criei um bot em Python que envia mensagens automáticas em grupos.  
+  Ele recebe informações de outras plataformas e dispara sinais de forma automática em tempo real.
+
+- **Downloader YouTube (MP3/MP4)**  
+  Desenvolvi uma aplicação em Python que permite baixar vídeos do YouTube e converter para MP3 ou MP4 de forma simples.
+
+- **Projeto Startup (em desenvolvimento)**  
+  Projeto em desenvolvimento a partir de uma ideia proposta por Renata Sales, criado em equipe durante atividades acadêmicas.  
+  A proposta é transformar a ideia em uma solução real, atualmente em fase de construção e validação.
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxma3Yyc2xvM2VvdDk2N3o5cW5rbTFqb2kzbGtxZngwMTlxNHdvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="200">
