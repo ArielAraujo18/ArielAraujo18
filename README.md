@@ -7,7 +7,7 @@
 Estudante de Sistemas de Informação pela Universidade Federal Rural do Semi-Árido (UFERSA), 20 anos. Focado em desenvolvimento de software.
 Experiência com Python, JavaScript, React, MySQL e desenvolvimento full stack (back-end, front-end e banco de dados). Atualmente estudando Node.js e APIs REST, com conhecimento básico em MongoDB.
 
-## Experiência
+## Experiência - Projetos
 
 - **Projeto Açude**  
   Desenvolvimento individual de um sistema de monitoramento de açude utilizando Python, JavaScript e MySQL.
