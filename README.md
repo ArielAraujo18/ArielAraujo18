@@ -65,3 +65,4 @@ Experiência com Python, JavaScript, React, MySQL e desenvolvimento full stack (
 <p align="center">
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ArielAraujo18&theme=dark&hide_border=true" />
 </p>
+
