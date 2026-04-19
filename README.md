@@ -7,12 +7,8 @@
 ## About Me
 
 Full Stack Developer focused on building software with Python, React, Node.js, Java, MySQL and MongoDB.
-
 Experience developing ERP systems, REST APIs, automation tools and geospatial applications, working across back-end, front-end and database design.
-
 Currently expanding knowledge in scalable back-end architecture and modern API development.
-
----
 
 ## Projects
 
