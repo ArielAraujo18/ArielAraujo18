@@ -37,7 +37,7 @@ Individual development of an ERP system built with Python and MySQL, including p
 Full stack geospatial monitoring system built with Python, JavaScript and MySQL.
 
 **Tech Stack:** Python, JavaScript, MySQL  
-**Status:** Preparing for production deployment
+**Status** Built for public sector use (Municipality of Ouro Branco)
 
 **Features:**
 - Coordinate-based mapping integration
