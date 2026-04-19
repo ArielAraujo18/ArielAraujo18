@@ -15,35 +15,52 @@ Currently expanding knowledge in scalable back-end architecture and modern API d
 ### ERP System
 Individual development of an ERP system built with Python and MySQL, including point-of-sale, inventory and financial management modules.
 
-- Commercialized software
-- Real-world business use
-- Currently under updates
+**Tech Stack:** Python, MySQL  
+**Features:**
+- Sales and inventory control
+- Financial management
+- Real-world commercial use
+
+**Repository:** [GitHub](https://github.com/ArielAraujo18/ErpSistema)
 
 ---
 
 ### Reservoir Monitoring System
-Full stack geography system built with Python, JavaScript and MySQL.
+Full stack geospatial system built with Python, JavaScript and MySQL.
 
+**Tech Stack:** Python, JavaScript, MySQL  
+**Features:**
 - Coordinate-based mapping integration
 - Resident geolocation registration
-- Consult geographic data
+- Geospatial data querying
 
+**Repository:** [GitHub](https://github.com/ArielAraujo18/ProjetoAcude)
 ---
 
 ### Telegram Automation Bot
-Python bot that receives external data and sends automated real-time signals to groups.
+Python automation bot for receiving external data and sending real-time signals.
+
+**Tech Stack:** Python  
+**Features:**
+- Automated messaging
+- Real-time signal delivery
+  
+**Repository:** [GitHub](https://github.com/ArielAraujo18/Bot-Telegram)
 
 ---
 
 ### REST API
-CRUD API built with Node.js and tested with Postman.
+CRUD API built with Node.js.
+
+**Tech Stack:** Node.js  
+**Features:**
+- CRUD operations
+- API testing with Postman
+
+**Repository:** [GitHub](https://github.com/ArielAraujo18/NodeAPI)
 
 ---
 
-### Startup Project (In Progress)
-Team project focused on transforming an academic idea into a real-world solution.
-
----
   
 ## Technologies
 
