@@ -10,43 +10,44 @@ Full Stack Developer focused on building software with Python, React, Node.js an
 Experience developing ERP systems, REST APIs, automation tools and geography applications, working across back-end, front-end and database design.
 Currently expanding knowledge in scalable back-end architecture and modern API development.
 
-## Experiência - Projetos
+## Projects
 
-- **Projeto Açude**  
-  Desenvolvimento individual de um sistema de monitoramento de açude utilizando Python, JavaScript e MySQL.
-  O sistema permite ao operador selecionar coordenadas diretamente no mapa (via API), cadastrar moradores vinculados à localização e posteriormente consultar os dados com base nas coordenadas registradas.
-  A aplicação integra back-end, front-end e banco de dados para gerenciamento e visualização das informações geográficas.
+### ERP System
+Individual development of an ERP system built with Python and MySQL, including point-of-sale, inventory and financial management modules.
 
-- **Sistema ERP**  
-  Desenvolvimento individual de sistema ERP utilizando Python e MySQL, com módulos de PDV e gestão de estoque.  
-  Integra processos como vendas, finanças e controle de produtos em uma única aplicação.  
-  O sistema foi comercializado e atualmente está pausado para atualizações.
-  
-- **Portfólio Web**  
-  Desenvolvimento de portfólio utilizando React para apresentação de projetos e disponibilização de canal de contato.
-  
-- **Sistema de Gerenciamento de Tarefas**  
-  Aplicação desenvolvida com React para gerenciamento de tarefas, utilizando hooks como useState e navegação entre páginas. Implementa criação, listagem e controle de tarefas.
+- Commercialized software
+- Real-world business use
+- Currently under updates
 
-- **API REST (CRUD)**  
-  Desenvolvimento de API com Node.js implementando operações CRUD. Testes realizados com Postman.
-  
-- **Bot Telegram**  
-  Criei um bot em Python que envia mensagens automáticas em grupos.  
-  Ele recebe informações de outras plataformas e dispara sinais de forma automática em tempo real.
+---
 
-- **Downloader YouTube (MP3/MP4)**  
-  Desenvolvi uma aplicação em Python que permite baixar vídeos do YouTube e converter para MP3 ou MP4 de forma simples.
+### Reservoir Monitoring System
+Full stack geography system built with Python, JavaScript and MySQL.
 
-- **Projeto Startup (em desenvolvimento)**  
-  Projeto em desenvolvimento a partir de uma ideia proposta por Renata Sales, criado em equipe durante atividades acadêmicas.  
-  A proposta é transformar a ideia em uma solução real, atualmente em fase de construção e validação.
+- Coordinate-based mapping integration
+- Resident geolocation registration
+- Consult geographic data
+
+---
+
+### Telegram Automation Bot
+Python bot that receives external data and sends automated real-time signals to groups.
+
+---
+
+### REST API
+CRUD API built with Node.js and tested with Postman.
+
+---
+
+### Startup Project (In Progress)
+Team project focused on transforming an academic idea into a real-world solution.
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxma3Yyc2xvM2VvdDk2N3o5cW5rbTFqb2kzbGtxZngwMTlxNHdvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="200">
 </p>
   
-## Tecnologias que eu uso no meu dia
+## Technologies
 
 <div style="display: inline_block">
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
