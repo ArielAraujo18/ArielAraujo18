@@ -43,9 +43,7 @@ CRUD API built with Node.js and tested with Postman.
 ### Startup Project (In Progress)
 Team project focused on transforming an academic idea into a real-world solution.
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxma3Yyc2xvM2VvdDk2N3o5cW5rbTFqb2kzbGtxZngwMTlxNHdvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="200">
-</p>
+---
   
 ## Technologies
 
