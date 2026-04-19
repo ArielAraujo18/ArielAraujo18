@@ -4,9 +4,11 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://arielaraujo.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariel-ara%C3%BAjo-935217228/)
 
-## Sobre mim
-Estudante de Sistemas de Informação pela Universidade Federal Rural do Semi-Árido (UFERSA), 20 anos. Focado em desenvolvimento de software.
-Experiência com Python, JavaScript, React, MySQL e desenvolvimento full stack (back-end, front-end e banco de dados). Atualmente estudando Node.js e APIs REST, com conhecimento básico em MongoDB.
+## About Me
+
+Full Stack Developer focused on building software with Python, React, Node.js and Java with MySQL and MongoDB.
+Experience developing ERP systems, REST APIs, automation tools and geography applications, working across back-end, front-end and database design.
+Currently expanding knowledge in scalable back-end architecture and modern API development.
 
 ## Experiência - Projetos
 
