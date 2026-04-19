@@ -35,6 +35,7 @@ Full stack geospatial system built with Python, JavaScript and MySQL.
 - Geospatial data querying
 
 **Repository:** [GitHub](https://github.com/ArielAraujo18/ProjetoAcude)
+
 ---
 
 ### Telegram Automation Bot
